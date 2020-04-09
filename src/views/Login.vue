@@ -84,7 +84,7 @@ export default {
   padding-top: 300px;
   margin-top: -10px;
   height: 800px;
-  background: url("../assets/login.jpg") no-repeat;
+  background: url("../assets/login.png") no-repeat;
   background-size: 100%;
 }
 .el-checkbox__label,
